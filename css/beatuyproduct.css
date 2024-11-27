@@ -1,0 +1,283 @@
+/* Global Styles */
+body {
+  font-family: "Montserrat", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+h4,
+h6 {
+  margin: 0;
+}
+
+/* Navbar */
+#navbar {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/* Main Body */
+.main-body {
+  padding: 1rem;
+}
+
+.currentpage {
+  margin-bottom: 1rem;
+}
+
+.currentpage p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.title {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.title span {
+  color: #888;
+}
+
+/* Sort Tab */
+.sort-tab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.sort-tab h4 {
+  font-size: 1rem;
+}
+
+#select-sorting {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Sidebar */
+#sidebar {
+  width: 20%;
+  float: left;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+#sidebar h4 {
+  margin-bottom: 0.5rem;
+}
+
+#sidebar label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Product Items */
+.product-items {
+  width: 75%;
+  float: right;
+  padding: 1rem;
+}
+
+/* Discount Section */
+.discount-div {
+  clear: both;
+  padding: 1rem;
+  background-color: #fff5f5;
+  text-align: center;
+}
+
+.discount-div h3 {
+  color: #ff5252;
+}
+
+.discount-div p {
+  color: #333;
+  font-weight: bold;
+}
+
+/* Navbar */
+#navbar {
+  background-color: #f4f4f4;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+/* Main Body */
+.main-body {
+  padding: 1rem;
+}
+
+.currentpage {
+  margin-bottom: 1rem;
+}
+
+.currentpage p {
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.title {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.title span {
+  color: #888;
+}
+
+/* Sort Tab */
+.sort-tab {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.sort-tab h4 {
+  font-size: 1rem;
+}
+
+#select-sorting {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+/* Sidebar */
+#sidebar {
+  width: 20%;
+  float: left;
+  padding: 1rem;
+  background-color: #f9f9f9;
+}
+
+#sidebar h4 {
+  margin-bottom: 0.5rem;
+}
+
+#sidebar label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-size: 0.9rem;
+}
+
+/* Product Items */
+.product-items {
+  width: 75%;
+  float: right;
+  padding: 1rem;
+}
+
+/* Discount Section */
+.discount-div {
+  clear: both;
+  padding: 1rem;
+  background-color: #fff5f5;
+  text-align: center;
+}
+
+.discount-div h3 {
+  color: #ff5252;
+}
+
+.discount-div p {
+  color: #333;
+  font-weight: bold;
+}
+
+/* Additional Styles */
+.FreeShippingBanner-sidebar-collapsed,
+.FreeShippingBanner-sidebar {
+  padding: 10px;
+  background-color: #f4f4f4;
+  border: 1px solid #ddd;
+  cursor: pointer;
+  margin: 10px;
+}
+
+#navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+.sorting {
+  margin: 20px;
+}
+
+.product-items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+}
+
+.product-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+}
+
+.filters {
+  margin: 20px;
+}
+
+.filters label {
+  display: block;
+  margin-bottom: 5px;
+}
+.color-box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin: 10px;
+  text-align: center;
+  line-height: 100px;
+  font-weight: bold;
+  color: white;
+}
+
+.white {
+  background-color: gray;
+}
+
+.pink {
+  background-color: yellow;
+}
+
+.multi {
+  background-color: #ff5252;
+}
+
+.black {
+  background-color: greenyellow;
+}
+
+.brown {
+  background-color: #9418;
+}
+
+.red {
+  background-color: #8334;
+}
+
+.green {
+  background-color: #7408;
+}
+.yellow {
+  background-color: rgb(119, 0, 93);
+}
